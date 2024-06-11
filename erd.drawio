@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T12:46:44.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2RbdjiYZlh93i2_uoFMa" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T12:47:18.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NK8sGyic2UrMGmv1f4Fa" version="24.5.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2450" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -94,7 +94,7 @@
             <mxPoint x="180.28571428571445" y="540.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fHZ4egSgoJ2Gnob8rH2M-8" value="First_name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fHZ4egSgoJ2Gnob8rH2M-8" value="First Name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nPannfwYDDtQcJ3ThzXa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -127,7 +127,7 @@
             <mxPoint x="300.28571428571445" y="540.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fHZ4egSgoJ2Gnob8rH2M-12" value="Last_name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fHZ4egSgoJ2Gnob8rH2M-12" value="Last Name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fHZ4egSgoJ2Gnob8rH2M-14" value="Book_ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
