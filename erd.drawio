@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T12:42:31.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sKXjsmfCk0kJK7IPmoHP" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T12:43:20.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HPqJzAqM7gnFVH9v3aW7" version="24.5.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1917" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -99,7 +99,7 @@
             <mxPoint x="240.28571428571445" y="540.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fHZ4egSgoJ2Gnob8rH2M-8" value="Name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fHZ4egSgoJ2Gnob8rH2M-8" value="First_name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nPannfwYDDtQcJ3ThzXa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -132,7 +132,7 @@
             <mxPoint x="360.28571428571445" y="540.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fHZ4egSgoJ2Gnob8rH2M-12" value="Dob" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fHZ4egSgoJ2Gnob8rH2M-12" value="Last_name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fHZ4egSgoJ2Gnob8rH2M-14" value="Book_ID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -468,9 +468,6 @@
         </mxCell>
         <mxCell id="nPannfwYDDtQcJ3ThzXa-2" value="Target participant" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="760" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nPannfwYDDtQcJ3ThzXa-12" value="Notificates" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nPannfwYDDtQcJ3ThzXa-14" value="Address" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-40" width="80" height="40" as="geometry" />
@@ -852,6 +849,12 @@
             <mxPoint x="-740" y="440" as="sourcePoint" />
             <mxPoint x="-740" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pG2j9xziUuMmEBz06EQK-3" value="Dob" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pG2j9xziUuMmEBz06EQK-4" value="Gender" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="630" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
